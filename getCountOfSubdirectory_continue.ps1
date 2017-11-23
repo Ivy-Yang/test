@@ -2,10 +2,10 @@
 # Description   : Get the count number of the subdirectories.
 # Created       : 2012-08-08
 # History       : Version 1.0
-# Author        : Edde Yang
+
 # ---------------------------------------------------------------------------------------------------------------
-# Date          ID(Name)        Revision        Destription
-# 2012-08-08   Edde Yang                   1.0             Create the script
+# Date                  Revision        Destription
+# 2012-08-08                      1.0             Create the script
 
 #global variables########
 $Path="\\active.tan\data\OrgFileStore"
